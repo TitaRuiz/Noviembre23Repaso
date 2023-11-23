@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81c315-f157-4e43-89db-c98726907755" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Noviembre23Repaso.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarEmpleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarProducto.java" afterDir="false" />
+    <list default="true" id="ea81c315-f157-4e43-89db-c98726907755" name="Changes" comment="Comparable">
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Empleado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1700754074666</updated>
     </task>
+    <task id="LOCAL-00001" summary="Comparable">
+      <option name="closed" value="true" />
+      <created>1700764212260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700764212260</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Comparable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comparable" />
   </component>
 </project>
